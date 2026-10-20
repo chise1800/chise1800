@@ -1,8 +1,10 @@
 <p align="center">
   <img src="https://count.getloli.com/get/@chise1800?theme=asoul" alt="Moe Counter" />
+
+  ![Streak](https://streak-stats.demolab.com/?user=chise1800&theme=dark)
 </p>
 
-![Streak](https://streak-stats.demolab.com/?user=chise1800&theme=dark)
+
 
 
 

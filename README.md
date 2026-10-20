@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Аниме-баннер / гифка с приветствием -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjB2dDFsdnU1M2ZpYXR2ODN1M3RldW1jY2g0NGF0ZThpMGxjeDkxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lq0h93752f6J9tijrh/giphy.gif" width="380" alt="Anime Welcome" />
+  <img src="1animr.gif" width="380" alt="Anime Welcome" />
 
   <br/><br/>
 

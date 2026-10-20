@@ -33,12 +33,6 @@
 
   <br/><br/>
 
-  <!-- Стек технологий (чиби/минималистичные иконки) -->
-  <h3>🐾</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,html,css,git,figma&theme=dark" alt="Skills" />
-
-  <br/><br/>
-
   <!-- Аниме-подвал / чиби-персонаж на прощание -->
   <img src="https://media.giphy.com/media/26ueYv7Z1h4qX4mS4/giphy.gif" width="120" alt="Chibi Bye" />
 

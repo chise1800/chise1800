@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://count.getloli.com/get/@chise1800?theme=asoul" alt="Moe Counter" />
+</p>
 
 <!--
 **chise1800/chise1800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

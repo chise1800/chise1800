@@ -2,6 +2,10 @@
   <img src="https://count.getloli.com/get/@chise1800?theme=asoul" alt="Moe Counter" />
 </p>
 
+![Streak](https://streak-stats.demolab.com/?user=chise1800&theme=dark)
+
+
+
 <!--
 **chise1800/chise1800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
